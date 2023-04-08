@@ -1,5 +1,4 @@
 # Интернет-магазин строительной техники
-<hr>
 
 ## Функциональные требования
 
@@ -29,7 +28,6 @@
 ![database](https://user-images.githubusercontent.com/71128102/230730964-ad03f47c-bd36-445f-9f51-da2bd0c40ebe.png)
 
 # Внешний вид
-<hr>
 
 ## Каталог
 ![catalog](https://user-images.githubusercontent.com/71128102/230731937-bc7771f9-ddd8-45e3-8540-0f1b56816b8c.png)
@@ -44,7 +42,6 @@
 ![login](https://user-images.githubusercontent.com/71128102/230732223-a1f2711e-09e6-4188-a884-7d4ce30a7822.png)
 
 # Админка
-<hr>
 
 ## Категории
 ![category](https://user-images.githubusercontent.com/71128102/230732499-b4a64af8-4fe6-4726-acb3-0a4d7f47741a.png)
